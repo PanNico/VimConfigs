@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative'
+let g:netrw_dirhist_6='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/DeviceMng_Multiverse/MeppemCode/device-manager'
+let g:netrw_dirhist_5='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/Dnsmasq_Multiverse/BugCleanUp/Dnsmasq/src'
+let g:netrw_dirhist_4='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/DeviceMng_Multiverse/NewHybrid3APIs/device-manager'
+let g:netrw_dirhist_3='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/HybridVpn_Multiverse/InvalidConfig/NEW/hybrid-vpn'
+let g:netrw_dirhist_2='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/DeviceMng_Multiverse/NewHybrid3APIs/device-manager'
+let g:netrw_dirhist_1='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/HybridVpn_Multiverse/InvalidConfig/NEW/hybrid-vpn'
+let g:netrw_dirhist_0='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/DeviceMng_Multiverse/NewHybrid3APIs/device-manager'
+let g:netrw_dirhist_9='/home/internal.netduma.com_nicola.pancheri/Dnsmasq_DNATed/dnsmasq-2.80/src'
+let g:netrw_dirhist_8='/home/internal.netduma.com_nicola.pancheri/Documents/Git_Alternative/DeviceMng_Multiverse/NewHybrid3APIs/device-manager'
