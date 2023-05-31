@@ -8,5 +8,5 @@ call plug#begin('~/.vim/plugged')
   Plug 'https://github.com/rhysd/vim-clang-format.git'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'https://github.com/junegunn/fzf.vim.git'
-  Plug 'https://github.com/lornix/vim-scrollbar.git'
+ " Plug 'https://github.com/lornix/vim-scrollbar.git'
 call plug#end()
